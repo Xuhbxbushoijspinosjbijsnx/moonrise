@@ -12,17 +12,7 @@ showinSearchEngines: true
 
 # Set basic server info
 serverName: NoClue RP
-serverDescription: Minecraft Server Based on, CityRP/GTA
-With Things Like 
-- Drugs
-- Custom Cars
-- Custom Resource Pack
-- Cool Things
-- CityRP Map
-- Bedrock Support
-& More. 
-
-With cool staff, cool community. lag free server. 
+serverDescription: Minecraft Server Based on CityRP/GTA.
 serverIP: 138.201.133.35:25567
 useBedrockForOnlineStatus: false
 
