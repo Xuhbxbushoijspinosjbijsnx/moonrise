@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: NoClue RP
 serverDescription: Minecraft Server Based on CityRP.
 serverIP: 138.201.133.35:25567
-useBedrockForOnlineStatus: false
+useBedrockForOnlineStatus: true
 
 
 # Discord information
