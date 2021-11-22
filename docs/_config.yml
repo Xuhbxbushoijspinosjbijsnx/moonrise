@@ -11,16 +11,26 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: NoClue RP
+serverDescription: Minecraft Server Based on, CityRP/GTA
+With Things Like 
+- Drugs
+- Custom Cars
+- Custom Resource Pack
+- Cool Things
+- CityRP Map
+- Bedrock Support
+& More. 
+
+With cool staff, cool community. lag free server. 
+serverIP: 138.201.133.35:25567
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/JYtT28ck7g
+discordServerID: 838698819545071627
+discordChannelID: 838698820673863690
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
