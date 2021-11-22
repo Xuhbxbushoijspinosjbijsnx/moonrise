@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://Xuhbxbushoijspinosjbijsnx.github.io"
 baseurl: "/moonrise"
-siteIcon: https://cdn.discordapp.com/attachments/893418225860247562/912277020447227964/IMG_3195.png
+siteIcon: /Media/9188D814-D6B6-40DA-94E2-14D256D7499A.png
 siteYear: 2020
 siteFooterlink: /about
 showinSearchEngines: true
@@ -12,7 +12,7 @@ showinSearchEngines: true
 
 # Set basic server info
 serverName: NoClue RP
-serverDescription: Minecraft Server Based on CityRP/GTA.
+serverDescription: Minecraft Server Based on CityRP.
 serverIP: 138.201.133.35:25567
 useBedrockForOnlineStatus: false
 
