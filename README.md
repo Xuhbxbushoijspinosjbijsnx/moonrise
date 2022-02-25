@@ -3,7 +3,7 @@
 # Moonrise
 
 A simple, lightweight, responsive landing page template for a Minecraft server. Integrates with Discord, Minecraft server status, and GitHub Pages to host a free website.
-
+https://ibrahim.is-a.dev/free.mp4
 Features:
 - Shows the server's Minecraft Java version automatically
 - Shows a channel from your Discord server on the homepage
